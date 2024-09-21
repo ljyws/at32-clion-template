@@ -1,0 +1,4 @@
+G:/ljyws/at32-clion-template/cmake-build-debug/CMakeFiles/at32-clion-template.elf.dir
+G:/ljyws/at32-clion-template/cmake-build-debug/CMakeFiles/clean-all.dir
+G:/ljyws/at32-clion-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/ljyws/at32-clion-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
